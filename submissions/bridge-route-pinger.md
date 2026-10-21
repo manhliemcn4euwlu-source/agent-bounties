@@ -13,11 +13,11 @@ charges, how long it takes, and what the caller must have ready before starting.
 
 | | |
 |---|---|
-| Quote (paid, x402) | `POST https://9fc49ae61843445f-117-129-69-129.serveousercontent.com/entrypoints/quote/invoke` |
-| Chain list (free) | `POST https://9fc49ae61843445f-117-129-69-129.serveousercontent.com/entrypoints/chains/invoke` |
-| Health | `GET https://9fc49ae61843445f-117-129-69-129.serveousercontent.com/health` |
-| Agent card | `GET https://9fc49ae61843445f-117-129-69-129.serveousercontent.com/.well-known/agent.json` |
-| Backup host | `https://primarily-subsidiaries-tiny-enabled.trycloudflare.com` (same paths) |
+| Quote (paid, x402) | `POST https://elevation-talk-edt-village.trycloudflare.com/entrypoints/quote/invoke` |
+| Chain list (free) | `POST https://elevation-talk-edt-village.trycloudflare.com/entrypoints/chains/invoke` |
+| Health | `GET https://elevation-talk-edt-village.trycloudflare.com/health` |
+| Agent card | `GET https://elevation-talk-edt-village.trycloudflare.com/.well-known/agent.json` |
+| Backup host | `https://elevation-talk-edt-village.trycloudflare.com` (same paths) |
 
 Price: **$0.002 USDC** per quote, `eip155:8453`, `exact` scheme, pay-to
 `0x335AA55c12B260E604d93CB0B0895Bb13A4E93e3`.
